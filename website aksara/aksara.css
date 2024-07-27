@@ -1,0 +1,38 @@
+body {
+    background-color: aquamarine;
+    height: 100vh;
+}
+
+.tablee {
+    background-color: white;
+    width: 350px;
+    
+}
+
+.link {
+    width: 505px;
+    height: 20px;
+}
+
+.Judul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sandhangan {
+background-color: white;
+width: 350px;
+}
+
+.contoh {
+    text-decoration: none;
+    color: orange;
+}
+
+.haha {
+    background-color: aqua;
+}
+.duh {
+    height: 100hv;
+}
